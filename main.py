@@ -1,7 +1,7 @@
 import json
 from aiogram.dispatcher.filters import Text
 from instagram import instagramDown
-from facebook import facebook
+# from facebook import facebook
 from tik_tok import tik_tok
 import requests
 from aiogram import Bot, types
